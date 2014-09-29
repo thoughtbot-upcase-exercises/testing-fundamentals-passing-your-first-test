@@ -1,0 +1,14 @@
+#!/usr/bin/env sh
+
+# Run this script immediately after cloning the codebase.
+# https://github.com/thoughtbot/guides/tree/master/protocol
+
+# Exit if any subcommand fails
+set -e
+
+# Set up Ruby dependencies via Bundler
+bundle install
+
+# Add bin to path if using thoughtbot dotfiles:
+# http://goo.gl/CPzari
+mkdir .git/safe

@@ -7,6 +7,10 @@
 set -e
 
 # Set up Ruby dependencies via Bundler
+if ! command -v bundle > /dev/null; then
+  gem install bundler --no-document --pre
+fi
+
 bundle install
 
 # Add bin to path if using thoughtbot dotfiles:

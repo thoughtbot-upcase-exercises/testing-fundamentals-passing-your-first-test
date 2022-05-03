@@ -61,13 +61,13 @@ or explore any of the other great content on
 
 ## License
 
-testing-fundamentals-passing-your-first-test is Copyright © 2015-2018 thoughtbot, inc. It is free software,
+testing-fundamentals-passing-your-first-test is Copyright © 2015-2022 thoughtbot, inc. It is free software,
 and may be redistributed under the terms specified in the
 [LICENSE](/LICENSE.md) file.
 
 ## Credits
 
-![thoughtbot](https://presskit.thoughtbot.com/assets/images/logo.svg)
+![thoughtbot](https://thoughtbot.com/brand_assets/93:44.svg)
 
 This exercise is maintained and funded by
 [thoughtbot, inc](http://thoughtbot.com/community).
